@@ -3,6 +3,7 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 let myBalance = 50000;
 let mypin = 3456;
+
 let pinAnswer = await inquirer.prompt([
     {
         name: "pin",
