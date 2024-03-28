@@ -1,0 +1,21 @@
+{
+  "name": "basma5k-atm",
+  "version": "3.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "basma khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "i": "^0.3.7",
+    "npm": "^10.5.0"
+  }
+}
